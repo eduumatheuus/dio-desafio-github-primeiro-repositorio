@@ -1,4 +1,7 @@
-Link para Download do Git: https://git-scm.com/downloads
 
+- Git é um sistema de versionamento de códigos.
+- Github é a plataforma de gerenciamento de códigos e praticamente uma rede social para devs colaborarem entre si.
+- Cada commit registra um momento do projeto.
 - O GitBash é um terminal extendido para otimizar o uso do Git.
 
+Link para Download do Git: https://git-scm.com/downloads
