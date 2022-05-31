@@ -1,0 +1,34 @@
+COMANDOS DE CONFIGURAÇÃO
+
+git config --global user.name "NOME" (Escolher o usuário)
+git config --global user.email "EMAIL" (Escolher o email)
+git config --list (LISTAR AS CONFIGURAÇÕES)
+
+COMANDOS DE REPOSITÓRIO
+
+git init (Criar um novo repositório)
+git status (Verificar status)
+git add (Adicionar Arquivo ou diretório específico)
+git add . (Adicionar todos os arquivos)
+
+COMANDOS DE COMMIT
+
+git commit NOME DO ARQUIVO (Comitar arquivo)
+git commit -m "mensagem" (Comitar informando uma mensagem)
+
+COMANDOS DE REMOÇÃO
+
+git rm NOME DO ARQUIVO (Remover um arquivo)
+git rm -r NOME DO DIRETÓRIO (Remover um diretório)
+
+COMANDO DE ENVIAR DIRETORIOS PRO GITHUB
+
+git push origin master/main* (Enviar todos os commits pra nuvem)
+
+COMANDO DE ATUALIZAÇÃO
+
+git pull (Atualizar os arquivos no branch atual)
+
+COMANDO DE CLONAR REPOSITÓRIO REMOTO
+
+git clone URL/SSH (Clonar repositório em nuvem)
