@@ -7,6 +7,10 @@ git config --list (LISTAR AS CONFIGURAÇÕES)
 COMANDOS DE REPOSITÓRIO
 
 git init (Criar um novo repositório)
+mkdir NOME (Cria uma nova pasta)
+cd NOME (Entra na pasta)
+ls (lista tudo o que tem no repositório)
+cd .. (Volta 1 pasta)
 git status (Verificar status)
 git add (Adicionar Arquivo ou diretório específico)
 git add . (Adicionar todos os arquivos)
